@@ -1,7 +1,7 @@
 ### Hello, I'm Java Developer
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=warpgate3&show_icons=true&theme=dark&hide_title=true&count_private=true" />
-<img width="50%" style="margin:20px 0;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warpgate3&" alt="warpgate3" />
+<img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=warpgate3&show_icons=true&theme=dark&hide_title=true&count_private=true" />
+<img width="100%" style="margin:20px 0;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warpgate3&langs_count=8" alt="warpgate3" />
  
 
 
