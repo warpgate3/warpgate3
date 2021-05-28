@@ -1,15 +1,18 @@
-### Hi there 👋
+### Hello, I'm Java Developer
 
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/warpgate3/)](https://hits.seeyoufarm.com) 
-	
-  </div>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
-   
-  
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=warpgate3&show_icons=true&theme=dark&hide_title=true&count_private=true" />
+<img width="50%" style="margin:20px 0;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warpgate3&" alt="warpgate3" />
+ 
+
+
+#### Getting in touch
+
+* [warpgate3@gmail.com](mailto:warpgate3@gmail.com)
+* [https://warpgate3.tistory.com/](https://warpgate3.tistory.com/)
+
+
 <!--
-**warpgate3/warpgate3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hantsy/hantsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
